@@ -22,8 +22,7 @@
 
 <ul>
 	<li><strong>watch</strong>: Watch for the changes, add autoprefixer after scss compilation</li>
-	<li><strong>prefix</strong>: Add prefixes to css (last 2 browser versions) </li>
-	<li><strong>gulp</strong>: run default gulp task (sass, js, watch, browserSync) for web development;</li>
+	<li><strong>gulp</strong>: run default gulp task (sass, js, watch) for web development;</li>
 	<li><strong>build</strong>: build project to <strong>dist</strong> folder (cleanup, image optimize, removing unnecessary files);</li>
 	<li><strong>deploy</strong>: project deployment on the server from <strong>dist</strong> folder via <strong>FTP</strong>;</li>
 	<li><strong>clearcache</strong>: clear all gulp cache.</li>
@@ -34,7 +33,7 @@
 
 <h2>Installation:</h2>
 <ul>
-	<li><b>Install Node Modules</b>: npm i/li>
+	<li><b>Install Node Modules</b>: npm i</li>
 	<li>bower install (jquery predefined)</li>
 	<li>gulp</li>
 </ul>
