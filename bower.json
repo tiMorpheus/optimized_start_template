@@ -1,0 +1,22 @@
+{
+  "name": "bower template",
+  "description": "A starting template for front end development",
+  "main": "index.js",
+  "authors": [
+    "Tymur Tolochko"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/tiMorpheus/optimized_start_template",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/libs/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
